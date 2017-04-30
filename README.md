@@ -23,7 +23,7 @@ anything fishy.
 Some of the letters near the edge are connect to the siphon drain, so 
 fluid dribbles from the letters themselves.
 
-I like the design. The insidious nature of the cup is ver well 
+I like the design. The insidious nature of the cup is very well 
 concealed. 
 
 I built the cup using an OpenSCAD parameter of $fn=96 to make the 
