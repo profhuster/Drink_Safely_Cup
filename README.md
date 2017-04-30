@@ -19,6 +19,7 @@ the "Drink Safely" label) you can drink out of it with out dribbling.
 
 ![Cup with OpenScad in background](DSCup3.JPG "The cup in action")
 ### The cup completely empties once it starts.
+(Sorry I can't get the image rotated correctly.)
 ---
 
 ## The Physics of the Cup
