@@ -3,12 +3,23 @@
 ## April 2017
 This is a dribble cup designed in response to the Make Magazine _worst 
 cup_ challenge.
+
 If you hold the handle with your right hand 
 and drink out of the cup, it will dribble until empty. If you use 
 Your left hand or face the cup in another direction (not looking at 
 the "Drink Safely" label) you can drink out of it with out dribbling. 
 
 ![Cup with OpenScad in background](DSCup1.JPG "The Drink Safely Cup")
+### A Print of the cup with OpenScad image in background.
+---
+
+![Bottom of cup](DSCup2.JPG "The text on the bottom dribbles")
+### When dribbling, the fluid leaks through this text.
+---
+
+![Cup with OpenScad in background](DSCup3.JPG "The cup in action")
+### The cup completely empties once it starts.
+---
 
 ## The Physics of the Cup
 There is a siphon hidden inside the wall of the cup. The inlet to the 
