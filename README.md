@@ -8,6 +8,8 @@ and drink out of the cup, it will dribble until empty. If you use
 Your left hand or face the cup in another direction (not looking at 
 the "Drink Safely" label) you can drink out of it with out dribbling. 
 
+![Cup with OpenScad in background](DSCup1.JPG "The Drink Safely Cup")
+
 ## The Physics of the Cup
 There is a siphon hidden inside the wall of the cup. The inlet to the 
 siphon is at the bottom inside the cup. It is very hard to see, even 
