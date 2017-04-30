@@ -1,7 +1,9 @@
 # The Drink Safely Cup
 ## Designed by profhuster @ gmail.com
 ## April 2017
-This is a dribble cup. If you hold the handle with your right hand 
+This is a dribble cup designed in response to the Make Magazine _worst 
+cup_ challenge.
+If you hold the handle with your right hand 
 and drink out of the cup, it will dribble until empty. If you use 
 Your left hand or face the cup in another direction (not looking at 
 the "Drink Safely" label) you can drink out of it with out dribbling. 
