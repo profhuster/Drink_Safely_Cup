@@ -47,3 +47,7 @@ curves smooth.
 
 There are other options in the OpenSCAD code. I try to put all of the 
 parameters at the top of the file, so they are easy to change. 
+
+__Warning__: It is a bad idea to send this through a dishwasher. The 
+drying cycle may get hot enough to deform the cup. (I experimented 
+and found this out.)
